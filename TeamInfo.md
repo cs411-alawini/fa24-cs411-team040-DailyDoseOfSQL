@@ -8,7 +8,7 @@
 | TeamName    |     DailyDoseOfSQL     |
 | Captain     |       Jaakko Hyoty     |
 | Captain     |  jhyty2@illinois.edu   |
-| Member1     |     Yun-Yang Huan      |
+| Member1     |     Yun-Yang Huang      |
 | Member1     |   yh76@illinois.edu    |
 | Member2     |      Jiahe Jiang       |
 | Member2     |  jiahej2@illinois.edu  |
